@@ -40,4 +40,4 @@ The main goal of this project is to:
 
 ---
 
-**Deployed the app on **[Streamlit Cloud](https://uber-ride-data-analysis-s4shhf46c4hezcxqrj85uf.streamlit.app/)****
+**Deployed the app on **[Streamlit Cloud](https://uberdataanalysis-box3mi59jqezzxefndbxzn.streamlit.app/)****
